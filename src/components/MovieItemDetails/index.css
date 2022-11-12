@@ -1,0 +1,19 @@
+.banner-wrapper {
+  height: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.banner {
+  background-image: linear-gradient(to bottom, transparent, #000000cc);
+  height: 100%;
+}
+.similar-items {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.item {
+  height: 205px;
+  margin: 5px 15px 5px 15px;
+}

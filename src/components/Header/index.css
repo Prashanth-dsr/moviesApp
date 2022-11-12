@@ -1,0 +1,37 @@
+.header-card {
+  display: flex;
+  justify-content: space-between;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 10px 30px 10px 30px;
+  height: 50px;
+}
+.header-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right-card {
+  width: 200px;
+}
+.home-popular-tabs-card {
+  list-style: none;
+  display: flex;
+}
+.tab {
+  text-decoration: none;
+  color: white;
+  margin: 5px;
+  font-size: 16px;
+}
+.tab-color {
+  color: white;
+  font-weight: bold;
+}
+.no-highlight {
+  color: cadetblue;
+  font-weight: normal;
+}
+
+.img {
+  height: 30px;
+}

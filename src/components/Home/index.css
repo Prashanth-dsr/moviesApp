@@ -1,0 +1,20 @@
+.banner {
+  height: 35%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.banner-transparent {
+  background-image: linear-gradient(to bottom, transparent, #000000cc);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 0px 0px 20px 20px;
+}
+.home-card {
+  height: 100vh;
+}
+.slick-heading {
+  font-size: 20px;
+}
